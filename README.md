@@ -1,2 +1,2 @@
 # Lab-04-wireless
-Lab 3 for ETE 3644
+Simulation of Two-Ray Ground-Reflection Propagation Model.
